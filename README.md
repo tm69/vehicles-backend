@@ -20,6 +20,11 @@ database name vehicles
 php artisan migrate
 ```
 
+### Create user test@test.com
+```
+php artisan db:seed
+```
+
 ### Run code for development
 ```
 php artisan serve
